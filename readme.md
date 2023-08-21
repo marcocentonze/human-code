@@ -2,7 +2,7 @@
 
 //Visione ricetta e controllo ingredienti
 - lettura della ricetta  ( "Pancetta", "Carote", "Olio", "Cipolle", "Sedano", "Sfoglia di pasta confezionata", "Passato di pomodori", "...")
-- controllo ingrdienti
+- controllo ingredienti
   - SE (sono disponibili)
    - vado avanti
   - ALTRIMENTI
